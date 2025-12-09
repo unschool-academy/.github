@@ -7,7 +7,11 @@ We believe that learning thrives when it is **self-directed, curiosity-driven, a
 
 ## ✨ Our Philosophy
 
-- **Self-Directed Learning**: Learners choose their own paths. Interest fuels retention and deeper understanding.  
+- **Self-Directed Learning**: Learners choose their own paths. Interest fuels retention and deeper understanding.
+- **Student Agency**: Learner have the ability make choices and take action in your own life.
+  - They are the co-creator of their own learning. A spectrum between compliance (Directives from school/curriculum ) --> Engagement (Co-creation with teachers) --> Empowerment (Full Ownership of Ones Education)
+  - From standardized test to co-creation of assessment to curiosity and growth (figuring out what to do, what they can do for themselves) assessing students over themselves rather than the standards.
+  - They learn to navigate unfamiliar contexts independently rather than passively receiving fixed instructions   
 - **No Formal Curriculum**: We encourage exploration instead of rigid structures.  
 - **Learning Through Experience**: Knowledge grows through doing, reflecting, and sharing.  
 - **Assessment Beyond Grades**: Growth is measured through skills, curiosity, and personal development.  
@@ -20,7 +24,8 @@ We believe that learning thrives when it is **self-directed, curiosity-driven, a
 ## 🌍 What We’re Building
 
 We are creating an **enabling platform** where learners can:
-- Explore topics freely and deeply.  
+- Explore topics freely and deeply. Topics may be Nature, Culture (diversity, civilization, history), Economy (Creation of values), Serving society,
+- Develop critical Skillsets: Critical thinking, Intrapersonal Skills, Personal Skills, Digital Transformation, Global Citizenship
 - Focus on their passions while reflecting on their journey.  
 - Connect with mentors and peers in a supportive community.  
 - Document growth through skills and curiosity rather than standardized tests.  
